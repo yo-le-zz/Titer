@@ -1,0 +1,12 @@
+Package: titer
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: amd64
+Maintainer: yolezz
+Description: Interactive CLI project generator
+ Titer is a CLI tool for initializing projects
+ with interactive questions and configurations.
+ .
+ Titer provides interactive project generation
+ for Python and other languages in future releases.
